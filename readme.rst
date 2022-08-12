@@ -9,10 +9,9 @@ Web scraping is the process of collecting information from the Internet.
 Usage
 =====
 From the command line, make instruction:
-    - git clone https://github.com/flavien-hugs/qrcode-generator-website/
-    - cd qrcode-generator-website
+    - git clone https://github.com/flavien-hugs/web_scrapping.git/
+    - cd web_scrapping
     - run ``make help`` to display all make commands
-    - run ``make venv`` for create a new virtual environment with pipenv
     - run ``make install`` for install requirements in virtual environment
     - use ``make start`` to run script
 
